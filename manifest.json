@@ -2,6 +2,7 @@
     "name": "Clock",
     "short_name": "Clock",
     "description": "An app that displays the current time and timezone.",
+    "orientation": "portrait",
     "icons": [
         {
             "src": "icons/android-chrome-192x192.png",
