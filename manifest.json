@@ -1,0 +1,6 @@
+{
+    "name": "Clock",
+    "short_name": "Clock",
+    "description": "An app that displays the current time and timezone.",
+    "display": "standalone"
+}
