@@ -2,5 +2,36 @@
     "name": "Clock",
     "short_name": "Clock",
     "description": "An app that displays the current time and timezone.",
+    "icons": [
+        {
+            "src": "icons/android-chrome-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "icons/android-chrome-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "icons/apple-touch-icon.png",
+            "type": "image/png",
+            "sizes": "180x180"
+        },
+        {
+            "src": "icons/favicon-16x16.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "icons/favicon-32x32.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "icons/favicon.ico",
+            "sizes": "48x48"
+        }
+    ],
     "display": "standalone"
 }
