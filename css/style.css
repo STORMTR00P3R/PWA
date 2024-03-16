@@ -16,3 +16,9 @@ html {
     text-align: center;
     font-size: 7em;
 }
+
+h1 {
+    font-size: 5em;
+    display: block;
+    margin-top: 15vh;
+}
