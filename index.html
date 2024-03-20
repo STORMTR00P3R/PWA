@@ -12,5 +12,10 @@
     <h1><span id="hours">00</span>:<span id="minutes">00</span></h1>
     <div id="timezone">Timezone</div>
     <script src="script/clock.js"></script>
+    <script>
+        if ("serviceWorker" in navigator) {
+            navigator.serviceWorker.register('sw.js');
+        }
+    </script>
 </body>
 </html>
